@@ -33,37 +33,13 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/dougcode227/dougcode227/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/dougcode227/count.svg?"  />
 </div>
 
-
 ###
+
 
 <br clear="both">
 
 <img href="https://raw.githubusercontent.com/dougcode227/dougcode227/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img href="https://raw.githubusercontent.com/dougcode227/dougcode227/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img href="https://raw.githubusercontent.com/dougcode227/dougcode227/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img href="https://raw.githubusercontent.com/dougcode227/dougcode227/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img href="https://raw.githubusercontent.com/dougcode227/dougcode227/blob/output/snake.svg" alt="Snake animation" />
-
-###
