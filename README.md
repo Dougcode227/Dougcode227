@@ -42,4 +42,4 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/dougcode227/dougcode227/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/dougcode227/dougcode227/blob/output/github-contribution-grid-snake.svg)
